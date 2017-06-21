@@ -1,4 +1,4 @@
-#This is a docker file with latest CentOS - non root-preveliges user
+#This is a docker file with latest CentOS - non root-preveliges user.
 FROM ubuntu:12.04
 MAINTAINER sanam@outlook.com
 RUN apt-get update
